@@ -1,0 +1,6 @@
+{
+	"name": "cbind",
+	"description": "C bindings for T",
+	"type": "library",
+	"dependencies": []
+}
