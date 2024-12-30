@@ -1,3 +1,3 @@
-module fcntl;
+module fnctl;
 
 extern efunc int open(ubyte* pathname, int flags, int mode);
