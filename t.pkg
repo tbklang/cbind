@@ -5,6 +5,6 @@
 	"dependencies": [],
 	"build":
 	{
-			"links": ["c_fnctl.o"]
+			"link": ["c_fnctl.o"]
 	}
 }
