@@ -5,6 +5,5 @@
 	"dependencies": [],
 	"build":
 	{
-			"link": ["c_fnctl.c", "/usr/include/stdlib.h"]
 	}
 }
