@@ -1,3 +1,3 @@
 module mem;
 
-extern efunc ubyte* malloc(sizet sz);
+extern efunc ubyte* malloc(size_t sz);
